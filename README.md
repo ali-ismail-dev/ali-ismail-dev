@@ -34,11 +34,6 @@ Architect specializing in **production-grade B2B systems**, **multi-tenant datab
 ---
 
 ### 📬 Connect with Me
-LinkedIn: linkedin.com/in/ali-ismail
-
-Email: ali.ismail.dev1@gmail.com
-
-Location: Remote / Lebanon (Open to Global Remote, Hybrid, & On-Site Roles)
 
 *   **LinkedIn:** [linkedin.com/in/ali-ismail](https://linkedin.com)
 *   **Email:** ali.ismail.dev1@gmail.com
