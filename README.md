@@ -1,13 +1,5 @@
 # Ali Ismail | Senior Full Stack Engineer & Systems Architect
 
-```text
-   __          _ ____ _     _          
-  / /   ___   ____ (_) ____/ /___  _  __
- / /   / _ \ / __// // __  // _ \| |/_/
-/ /___/  __// /_ / // /_/ //  __/>  <  
-/_____/\___/ \__//_/ \__,_/ \___/_/|_|
-```
-
 Architect specializing in **production-grade B2B systems**, **multi-tenant database isolation**, and **real-time telemetry processing**. I design decoupled architectures utilizing modern Laravel and Next.js, prioritizing zero-trust data security, high-frequency query performance, and test-driven reliability.
 
 ---
